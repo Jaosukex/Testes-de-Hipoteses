@@ -1,5 +1,5 @@
 # Testes-de-Hipoteses
-## Projeto para conclusão da disciplina de Inferência Estatística, ministrada pelo professor Roberto Quirino.
+Projeto para conclusão da disciplina de Inferência Estatística, ministrada pelo professor Roberto Quirino.
 
 # Grupo:
 - João Victor Rodrigues de Almeida Alves
